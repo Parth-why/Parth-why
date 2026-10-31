@@ -56,13 +56,14 @@ Building practical software, learning new technologies, and turning ideas into w
 ## GitHub activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Parth-why&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff5577&icon_color=ff5577&text_color=c9d1d9" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-why&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5577&text_color=c9d1d9" alt="Most used languages" />
+
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Parth-why&query=%24.public_repos&label=Public%20repositories&style=flat-square&color=22272e&logo=github)](https://github.com/Parth-why?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Parth-why?style=flat-square&color=22272e&logo=github&label=Followers)](https://github.com/Parth-why?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Parth-why?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=22272e&logo=github&label=Stars)](https://github.com/Parth-why?tab=repositories)
+
 </div>
 
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Parth-why&hide_border=true&background=0d1117&ring=ff5577&fire=ff5577&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
-</div>
+I removed the external statistics cards because their hosting service was not loading reliably. Your contribution snake is generated and hosted directly in this repository, so it does not depend on those card services.
 
 ## Contribution activity
 
