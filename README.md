@@ -64,6 +64,12 @@ Building practical software, learning new technologies, and turning ideas into w
   <img width="90%" src="https://streak-stats.demolab.com?user=Parth-why&hide_border=true&background=0d1117&ring=ff5577&fire=ff5577&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
 </div>
 
+## Contribution activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Parth-why/Parth-why/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</div>
+
 ---
 
 <div align="center">
